@@ -1,0 +1,2 @@
+# GlideGifLibs
+用FrameSequence解码glide Stream来播放gif图片
